@@ -1,7 +1,7 @@
 import Textarea from "./Components/Textarea";
 function App() {
   return (
-    <div className=" w-screen h-screen bg-slate-500">
+    <div className=" w-screen h-screen bg-gray-600">
       <Textarea />
     </div>
   );
